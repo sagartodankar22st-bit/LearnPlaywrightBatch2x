@@ -1,0 +1,10 @@
+var name="Sagar";              // lowercase
+var FirstName= "Sagar";        // camelCase
+var LastName="Todankar";       // camelCase
+var First_Name="Sagar";        // snake_case
+var first_name="Sagar";        // snake_case (lowercase)
+var FirstName_Sagar="Sagar";   // camel_snake (mix of camelCase + snake_case)
+var FirstNameSagar="Sagar";    // PascalCase
+var MAX_LIMIT=100;             // SCREAMING_SNAKE_CASE (UPPER_CASE)
+var $firstName="Sagar";        // $ prefix (valid identifier)
+var _firstName="Sagar";        // _ prefix (valid identifier)
